@@ -10,4 +10,4 @@
 
 I love github, this is me
 
-https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/Bhurich/BhurichTU/refs/heads/main/kepler.gl.json
+
