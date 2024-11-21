@@ -1,8 +1,8 @@
 # BhurichTU
 
-# heading 1
+# Economic Thammasart
 
-## heading2
+## QGIS skill
 -item1
 -item2
 
